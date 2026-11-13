@@ -8,7 +8,7 @@
 
 ## Video Penjelasan
 Video penjelasan keempat program dan contoh hasil eksekusinya:
-[ISI LINK YOUTUBE]
+https://youtu.be/aZZK873s-No?si=RauIJFl19Bt_y16s
 
 ## Deskripsi Program
 
